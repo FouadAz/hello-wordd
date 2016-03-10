@@ -1,5 +1,0 @@
-Manifest-Version: 1.0
-Build-Jdk: 1.7.0_79
-Built-By: SQLI-2W0P55J
-Created-By: Maven Integration for Eclipse
-
